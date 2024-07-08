@@ -46,7 +46,7 @@ const CartSummary = () => {
                       <p>Total Items: {cartList.length}</p>
                       <p>Total Cost: Rs {total}/-</p>
                       <form className="payment-options">
-                        <label htmlfor="netBanking">
+                        <label htmlFor="netBanking">
                           <input
                             type="radio"
                             id="netBanking"
@@ -55,7 +55,7 @@ const CartSummary = () => {
                           />
                           Net Banking
                         </label>
-                        <label htmlfor="cod">
+                        <label htmlFor="cod">
                           <input
                             type="radio"
                             value="COD"
