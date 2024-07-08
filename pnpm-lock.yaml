@@ -6,6 +6,7 @@ dependencies:
   history: 5.0.0
   js-cookie: 3.0.0
   msw: 0.33.0
+  node.js: 0.0.1-security
   react: 17.0.1
   react-dom: 17.0.1_react@17.0.1
   react-icons: 4.2.0_react@17.0.1
@@ -10530,6 +10531,10 @@ packages:
     dev: true
     resolution:
       integrity: sha512-y10wOWt8yZpqXmOgRo77WaHEmhYQYGNA6y421PKsKYWEK8aW+cqAphborZDhqfyKrbZEN92CN1X2KbafY2s7Yw==
+  /node.js/0.0.1-security:
+    dev: false
+    resolution:
+      integrity: sha512-8tWQiyg/3ggdLTrtfgj/NxmZpC20eB1U5VNkqt2dbelpcr3NrfjpEE3DgifpBOCJ4Xu9Obvu8iju63ViQW3Hvg==
   /normalize-package-data/2.5.0:
     dependencies:
       hosted-git-info: 2.8.9
@@ -15264,6 +15269,7 @@ specifiers:
   js-cookie: 3.0.0
   lint-staged: 10.5.4
   msw: 0.33.0
+  node.js: 0.0.1-security
   npm-run-all: 4.1.5
   prettier: 2.2.1
   react: 17.0.1
